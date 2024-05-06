@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akilesh1706&label=Profile%20views&color=0e75b6&style=flat" alt="akilesh1706" /> </p>
 
-- 🌱 I’m currently learning **GoLang and Machine Learning**
+- 🌱 I’m into **Machine Learning and application development**
 
 - 💬 Ask me about **Web Development**
 
